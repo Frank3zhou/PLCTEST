@@ -1,0 +1,194 @@
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe.config
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll.config
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Form1.resources
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.exe
+C:\Users\Administrator\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe.config
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Memory.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll.config
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Memory.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.AssemblyReference.cache
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Form1.resources
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Properties.Resources.resources
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.GenerateResource.cache
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CoreCompileInputs.cache
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CopyComplete
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.exe
+C:\Users\HW\Desktop\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe.config
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.exe
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\PLC_PC_Signal_TEST.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Memory.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\BouncyCastle.Cryptography.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Enums.NET.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\HslCommunication.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\MathNet.Numerics.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\Newtonsoft.Json.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.Core.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OOXML.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXml4Net.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\NPOI.OpenXmlFormats.dll.config
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\SixLabors.Fonts.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\SixLabors.ImageSharp.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Buffers.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Memory.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Numerics.Vectors.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.AccessControl.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Permissions.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Security.Principal.Windows.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.AssemblyReference.cache
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Form1.resources
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.Properties.Resources.resources
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.GenerateResource.cache
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CoreCompileInputs.cache
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.csproj.CopyComplete
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.exe
+D:\PLC TEST\PLC_PC_Signal_TEST\obj\Debug\PLC_PC_Signal_TEST.pdb
